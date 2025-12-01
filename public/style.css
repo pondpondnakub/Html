@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.page-bg {
+    background: url("https://preview.redd.it/i3yosyphyvl31.jpg?auto=webp&s=3f618887c3b20aafaf11bd7f4ca4b98e4ca82bc7");
+    background-size: cover;
+    backdrop-filter: blur(4px);
+    min-height: 100vh;
+}
+
+.bg-box {
+    background: rgba(0,0,0,0.75);
+    padding: 25px;
+    border-radius: 12px;
+    color: white;
+}
